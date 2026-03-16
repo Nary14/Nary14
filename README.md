@@ -1,12 +1,12 @@
-# ⚡ Hi, I'm Nary (@Nary14)
+#  Hi, I'm Nary (@Nary14)
 
-### 💻 Full-Stack Developer | 🚩 Cybersecurity Enthusiast | 🏫 42 Student
+###  Full-Stack Developer |  Cybersecurity Enthusiast |  42 Student
 
 I am a technical explorer driven by low-level systems, automated intelligence, and the art of efficient coding. As a student at **School 42**, I thrive in peer-to-peer environments, building robust software from scratch while maintaining a deep focus on **Cybersecurity** and **OSINT**.
 
 ---
 
-## 🚀 Technical Core
+##  Technical Core
 
 - **School 42 Curriculum:** Mastered the fundamentals of **C programming**, memory management, and Unix systems. I live by the "Norminette" and strict algorithmic efficiency (projects like `get_next_line` and `ft_printf`).
 - **Cybersecurity & CTF:** Active member and strategist for **Team Ghost Protocol**. Currently training for **CyberCup 2026** with a focus on web exploitation and forensics.
@@ -14,7 +14,7 @@ I am a technical explorer driven by low-level systems, automated intelligence, a
 
 ---
 
-## 🛠 Tech Stack & Tools
+##  Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
@@ -25,24 +25,24 @@ I am a technical explorer driven by low-level systems, automated intelligence, a
 
 ---
 
-## 🔍 Featured Projects
+##  Featured Projects
 
-### 📡 [SpyOSINT](https://github.com/Nary14/SpyOSINT)
+###  [SpyOSINT](https://github.com/Nary14/SpyOSINT)
 An automated Open Source Intelligence platform. It integrates **Computer Vision** for image analysis with automated web crawling to streamline digital investigations. Built with Python and Next.js.
 
-### 🔒 [Sédapage as a Service](https://github.com/Nary14/sedapage)
+###  [Sédapage as a Service](https://github.com/Nary14/sedapage)
 A security-focused dashboard designed for session management. Features include **SQLite** integration, Flask backend, and dynamic QR code generation for secure access control.
 
-### 🐚 [42 Projects & Utils](https://github.com/Nary14)
+###  [42 Projects & Utils](https://github.com/Nary14)
 A collection of system-level utilities, including custom implementations of standard C libraries and my personal configuration for **ft_lock**.
 
 ---
 
-## 🎨 Aesthetics & Interests
+##  Aesthetics & Interests
 
 - **Digital Art:** I enjoy blending tech with aesthetics, specifically **Anime/Kawaii** themes for branding and UI.
 - **GLSL Shaders:** I spend time crafting custom visual effects (sparks, water ripples) for terminal environments like Ghostty.
-- **Languages:** Currently learning **Russian** 🇷🇺 to expand my linguistic horizons.
+- **Languages:** Currently learning **Russian** and **Esperanto**  to expand my linguistic horizons.
 
 ---
 
@@ -53,7 +53,7 @@ A collection of system-level utilities, including custom implementations of stan
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **GitHub:** [@Nary14](https://github.com/Nary14)
 - **Status:** Open for collaborations on OSINT tools or CTF training.
