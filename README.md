@@ -30,7 +30,7 @@ I am a technical explorer driven by low-level systems, automated intelligence, a
 ###  [SpyOSINT](https://github.com/Nary14/SpyOSINT)
 An automated Open Source Intelligence platform. It integrates **Computer Vision** for image analysis with automated web crawling to streamline digital investigations. Built with Python and Next.js.
 
-###  [Sédapage as a Service](https://github.com/Nary14/sedapage)
+###  [Sédapage as a Service](https://github.com/Nary14/croisantage42)
 A security-focused dashboard designed for session management. Features include **SQLite** integration, Flask backend, and dynamic QR code generation for secure access control.
 
 ###  [42 Projects & Utils](https://github.com/Nary14)
